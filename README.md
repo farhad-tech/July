@@ -1,2 +1,1 @@
-# July
-Edyoda
+# Task tracker is git practice project
